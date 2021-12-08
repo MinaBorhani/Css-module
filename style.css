@@ -145,8 +145,30 @@ header{
     content: "faverite";
     color: black;
 }
-
-
+.he{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.star{
+    margin: 1rem;
+}
+.fa1{
+    color: rgb(228, 194, 3);
+}
+.al{
+    width: 5rem;
+    height: 2rem;
+    background-color: red;
+    justify-content: end;
+    align-items: center;
+    margin: 1rem;
+}
+.h5{
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    
+}
 
 /* footer style */
 
